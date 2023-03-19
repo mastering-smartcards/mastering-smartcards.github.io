@@ -1,2 +1,3 @@
-# mastering-smartcards.github.io
-Public website
+# Mastering Smartcards
+
+Tutorials for learning Smartcard Technologies (Javacard, BasicCard)
